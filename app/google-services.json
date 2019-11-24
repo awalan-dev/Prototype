@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1064601712710",
+    "firebase_url": "https://iot-distance-sensor.firebaseio.com",
+    "project_id": "iot-distance-sensor",
+    "storage_bucket": "iot-distance-sensor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064601712710:android:71c2766b777ffb8a573247",
+        "android_client_info": {
+          "package_name": "com.example.final_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064601712710-mm8fadm2r8udfaj1upq3li6gutnrbcv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_prototype",
+            "certificate_hash": "b9cd32d3c90311f24a067f243b0b7027174ed193"
+          }
+        },
+        {
+          "client_id": "1064601712710-4j9u0uufge201m4gspohk65vppvs3ll3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAPEkmTfSV0Dx-vg2FQ_vgzfV3C00uX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064601712710-4j9u0uufge201m4gspohk65vppvs3ll3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064601712710:android:6e7d7952f2516002573247",
+        "android_client_info": {
+          "package_name": "com.example.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064601712710-2mch6gqgq7dv7evce6bcc493dkq34bv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prototype",
+            "certificate_hash": "b9cd32d3c90311f24a067f243b0b7027174ed193"
+          }
+        },
+        {
+          "client_id": "1064601712710-4j9u0uufge201m4gspohk65vppvs3ll3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtAPEkmTfSV0Dx-vg2FQ_vgzfV3C00uX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064601712710-4j9u0uufge201m4gspohk65vppvs3ll3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
